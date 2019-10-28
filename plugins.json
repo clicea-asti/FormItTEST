@@ -1,5 +1,5 @@
 {
-  "RepoName": "FormIt Example UI Plugins",
+  "RepoName": "FormItTest",
   "RepoDescription": "Learn how FormIt plugins work through simple UI examples.",
   "Plugins":
   [
@@ -9,6 +9,6 @@
   "ModalDialog",
   "ModelessDialog",
   "PluginManagerToolbar",
-  "Toolbar1"
+  "UndoManager"
   ]
 }

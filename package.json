@@ -18,12 +18,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FormIt3D/FormItExamplePlugins.git"
+    "url": "git+https://github.com/clicea-asti/FormItTEST.git"
   },
   "author": "Jeff Hauswirth",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/FormIt3D/FormItExamplePlugins/issues"
+    "url": "https://github.com/clicea-asti/FormItTEST/issues"
   },
-  "homepage": "https://github.com/FormIt3D/FormItExamplePlugins#readme"
+  "homepage": "https://github.com/clicea-asti/FormItTEST#readme"
 }

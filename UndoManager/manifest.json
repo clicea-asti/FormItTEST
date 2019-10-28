@@ -1,5 +1,5 @@
 {
-    "PluginName": "UndoManager",
+    "PluginName": "UndoManagerTest",
     "Scripts": [
         "PLUGINLOCATION/undomanager.js"
     ]
